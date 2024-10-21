@@ -1,5 +1,5 @@
-# slga
-
+# slot game
+# For backend
 cd slot-game-backend
 
 npm install
