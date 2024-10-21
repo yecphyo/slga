@@ -1,4 +1,4 @@
-# slot game
+# Slot Game
 # For backend
 cd slot-game-backend
 
